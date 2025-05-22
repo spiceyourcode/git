@@ -1,2 +1,2 @@
-console.log('Version 1')
-console.error('Hello World !')
+console.log('Version 2')
+console.error('Hello Frank !')
